@@ -1,0 +1,29 @@
+/* Estilos base – La Cumbre PWA */
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f5f2ea;
+  color: #222;
+}
+
+header {
+  background-color: #2f5d50;
+  color: #ffffff;
+  text-align: center;
+  padding: 1.2rem 1rem;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+header p {
+  margin: 0.3rem 0 0;
+  font-size: 0.9rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around
